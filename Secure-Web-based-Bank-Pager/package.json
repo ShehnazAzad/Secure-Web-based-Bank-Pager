@@ -1,0 +1,21 @@
+{
+   "name": "bank-pager",
+   "version": "1.0.0",
+   "description": "Secure web based Chat application for internal Bank staff",
+   "main": "app.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js"
+   },
+   "keywords": [],
+   "author": "@Shehnaz Azad",
+   "license": ".",
+   "dependencies": {
+      "express": ".",
+      "moment-timezone": ".",
+      "socket.io": "."
+   },
+   "engines": {
+      "node": ">=10.0.0"
+   }
+}
